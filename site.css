@@ -1,0 +1,632 @@
+.screen_main{
+    width: 100%;
+    height: 100vh;
+    background: url("photos/background2.png") no-repeat;
+    font-family: 'Metal Mania', system-ui;
+}
+.container{
+    width: 100%;
+    max-width: 1800px;
+    margin:0 auto;
+
+}
+.header{
+    display: flex;
+    font-size: 50px;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.button1{
+    color: #F3693C;
+
+}
+.button2{
+    color: #569CF2;
+}
+.log{
+    width: 184px;
+    height: 184px;
+    background: url("photos/logotip.png");
+    
+
+
+    
+
+}
+.zag{
+    color: #C47F36;
+    display: flex;
+    font-size: 60px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 180px;
+    font-family:'Metal+Mania', regular;
+    margin-right: 7%;
+    font-family: 'Metal Mania', system-ui;
+}
+.zag1{
+    color: #C47F36;
+    display: flex;
+    font-size: 60px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0%;
+    margin-right: 7%;
+}
+.media{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 300px;
+    
+}
+
+
+.icon_media1{
+    background: url("photos/🦆 icon _facebook_.png");
+    width: 127px;
+    height: 117px;
+ 
+
+
+
+}
+.icon_media2{
+    background: url("photos/🦆 icon _gmail_.png");
+    width: 141px;
+    height: 96px;
+
+
+}
+.icon_media3{
+    background: url("photos/🦆 icon _steam_.png");
+    width: 106px;
+    height: 109px;
+}
+
+.icon_media4{
+    background: url("photos/🦆 icon _vk_.png");
+    width: 116px;
+    height: 109px;
+
+}
+.icon_media5{
+    background: url("photos/🦆 icon _warnerbros dot_.png");
+    width: 117px;
+    height: 127px;
+ 
+}
+.icon_media6{
+    background: url("photos/🦆 icon _windows_.png");
+    width: 116px;
+    height: 123px;
+
+
+}
+.icon_media7{
+    background: url("photos/🦆 icon _youtube_.png");
+    width: 154px;
+    height: 107px;
+    
+
+}
+.screen_plot{
+    width: 100%;
+    height: 100vh;
+    background: url("photos/Group 1.png") no-repeat;
+
+
+}
+.content{
+    height: 1000px;
+    width: 30%;
+    margin-left: 9%;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    justify-content: center;
+}
+.zag2{
+    font-size: 75px;
+    color: #FFFFFf;
+    justify-content:left;
+    margin-left:0%;
+    margin-bottom: 35px;
+
+}
+.text{
+    font-size: 20;
+    color: #FFFFFf;
+}
+.screen_krypt{
+    width: 100%;
+    height: 100vh;
+    background: url("photos/krypt.png") no-repeat;
+    position: relative;
+    font-family: 'Metal Mania', system-ui;
+}
+.content_k{
+    height: 800px;
+    width: 30%;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 auto;
+    
+
+}
+.text0{
+    display: flex;
+    flex-direction: column;
+}
+.zag3{
+    font-size: 75px;
+    color: #ffffff;
+    margin-left:0%;
+    margin-top: 50%;
+   
+    
+
+
+}
+.text_2{
+    font-size: 24px;
+    color: #ffffff;
+   
+}
+.contetn_b{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 800px;
+    margin-left: 95%;
+    margin-bottom: 20%;
+  
+    
+}
+.button_left{
+    width: 116px;
+    height: 107px;
+    background: url("photos/button left.png");
+   
+    
+
+}
+.button_right{
+    width: 116px;
+    height: 107px;
+    background: url("photos/button right.png");
+    
+  
+  
+}
+.one_two{
+    width: 550px;
+    height: 60%;
+    background: url("photos/0103.png") no-repeat;
+}
+
+
+.number{
+    width: 370px;
+    height: 420px;
+    background: url("photos/01.png") no-repeat;
+    position: absolute;
+    top: 10px;
+    left: 85%;
+
+    
+}
+.screen_tower{
+    width: 100%;
+    height: 100vh;
+    background: url("photos/fon4.png") no-repeat;
+    position: relative;
+}
+.two_two{
+    width: 550px;
+    height: 60%;
+    background: url("photos/0202.png") no-repeat;
+}
+.number2{
+    width: 100%;
+    height: 420px;
+    background: url("photos/02big.png") no-repeat;
+    position: absolute;
+    top: 10px;
+    left: 80%;
+}
+.active{
+    display: block;
+}
+.hide{
+    display:none;
+}
+.screen_charecters{
+    width: 1920px;
+    height: 1080px;
+    background: url(photos/charecters.png) no-repeat;
+    font-family: 'Metal Mania', system-ui;
+}
+.container{
+    width: 100%;
+    max-width: 1800px;
+    margin:0 auto;
+
+}
+.content_c{
+    height: 800px;
+    width: 100%;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+.stroka{
+    
+   height: 40%;
+    display: flex;
+    justify-content: space-around;
+    color: #C79370;
+}
+.zoners{
+    width: 20%;
+    height: 40%;
+    
+
+}
+.zag7{
+    font-size: 70px;
+    margin-right: 70%;
+}
+.text_7{
+    
+    font-size: 20px;
+    
+}
+.neutrals{
+    width: 30%;
+}
+.zag8{
+    font-size: 70px;
+}
+.text_8{
+    font-size: 20px;
+  
+}
+.stroka2{
+    color: #C79370;
+    margin-left: 12%;
+    width: 30%;
+    
+
+}
+.close_combat{
+    width: 30%;
+    
+}
+.zag9{
+    font-size: 70px;
+}
+.text_9{
+    font-size: 20px;
+  
+}
+.screen_re{
+    width: 1920px;
+    height: 957px;
+    background: url(photos/requirements.png) no-repeat;
+    
+}
+.container{
+    width: 100%;
+    max-width: 1800px;
+    margin:0 auto;
+  
+}
+.content_r{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.zag10{
+    font-size: 100px;
+    color: #ffff;
+    margin-top: 50px;
+    font-family: 'Metal Mania', system-ui;
+   
+   
+
+   
+}
+.rec{
+    font-size: 60px;
+    color: #ffffff;
+   
+}
+.text_10{
+    font-size: 26px;
+    color: #FFFFFf;
+}
+.ten{
+    background: rgba(0, 0, 0, 0.719);
+    width: 35%;
+    height: 75%;
+   
+    margin-top: 70px;
+    margin-right: 100px;
+    padding: 100px;
+}
+
+.eleven{
+    background: rgba(0, 0, 0, 0.720);
+    width: 35%;
+    height: 75%;
+    color: #0000;
+    margin-top: 70px;
+    margin-right: 100px;
+    padding: 100px;
+}
+
+.text_11{
+    color: #FFFFFf;
+    font-size: 26px;
+}
+.all{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.zzz{
+    background: black;
+    height: 500px;
+    width: 100%;
+}
+.container{
+    width: 100%;
+    max-width: 1800px;
+    margin:0 auto;
+  
+}
+.ofs{
+    width: 100%;
+    height: 5%;
+    display: flex;
+    
+}
+.ct{
+    color: #FFFFFf;
+    font-size: 40px;
+    margin-left: 38%;
+    padding-top: 20px;
+}
+.cont{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.story{
+    color: #FFFFFf;
+    font-size: 40px;
+
+}
+.gameplay{
+    color: #FFFFFf;
+    font-size: 40px;
+
+}
+.charecters{
+    color: #FFFFFf;
+    font-size: 40px;
+
+}
+.reqoirements{
+    color: #FFFFFf;
+    font-size: 40px;
+
+}
+.zn{
+    background: url(photos/logotip.png);
+    width: 160px;
+    height: 160px;
+}
+.bott{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.vos{
+    background: url(photos/circle.png);
+    width: 100px;
+    height: 100px;
+}
+.year{
+    color: #FFFFFf;
+    font-size: 40px;
+    margin-top: 50px;
+    padding-right: 500px;
+    
+    
+   
+
+}
+.Steam{
+    color: #FFFFFf;
+    font-size: 40px;
+    margin-top: 50px;
+
+}.Ps{
+    color: #FFFFFf;
+    font-size: 40px;
+    margin-top: 50px;
+
+}.Xbox{
+    color: #FFFFFf;
+    font-size: 40px;
+   
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFf;
+
+}
+.push{
+    background: black;
+    height: 610px;
+    width: 100%;
+    font-family: 'Metal Mania', system-ui;
+}
+.container{
+    width: 100%;
+    max-width: 1800px;
+    margin:0 auto;
+  
+}
+.zag16{
+    width: 700px;
+    height: 610px;
+    display: flex;
+    align-items: center;
+}
+.dmgm{
+
+    font-size: 82px;
+    color: #FFFFFf;
+    text-align:left;
+    justify-content: right;
+    
+}
+.dia{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.vod{
+    display: flex;
+    justify-content:space-around;
+    flex-direction: column;
+    height: 610px;
+    
+}
+.input1, .input2{
+    width: 849px;
+    height: 98px;
+background-color: black;
+border: 3px solid white;
+    color: #7C7C7C;
+    font-size: 64px;
+    font-family: 'Metal Mania', system-ui;
+
+}
+.button9{
+    width: 450px;
+    height: 119px;
+    color: #FFFFFf;
+    font-size: 98px;
+    transition: 0.5s all;
+    cursor: pointer;
+}
+.button9:hover{
+    color: #cfcfcf;
+    transition: 0.5s all;
+    
+}
+.pop_up{
+    width: 800px;
+    height: 737px;
+    background-color: #1F1F1F;
+    display: flex;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);  
+    transition: 0.5s all; 
+}
+.photo{
+    background: url(photos/pop_up.jpg) center; 
+    width: 345px;
+    height: 677px;
+    background-size: cover;
+}
+.zag17{
+    color: #FFFFFf;
+    font-size: 40px;
+    height: 80px;
+    margin-top: 120px;
+}
+.text12{
+    color: #FFFFFf;
+    font-size: 20px;
+    height: 200px;
+}
+.text13{
+    color: #FFFFFf;
+    font-size: 36px;
+    font-family: 'Metal Mania', system-ui;
+}
+.ttt{
+    justify-content: space-around;
+   width: 50%;
+}
+.containerpop{
+    width: 100%;
+    max-width: 900px;
+    max-height: 837px;
+    margin: auto auto;
+  
+}
+.ppp{
+    display: flex;
+    justify-content: space-around;
+}
+.crest{
+    color: #FFFFFf;
+    font-size: 36px;
+    position: absolute;
+    right: 5px;
+    top: 0px;
+    font-family: 'Metal Mania', system-ui;
+    cursor: pointer;
+}
+.pop_up_bg{
+    background-color:rgba(0, 0, 0, 0.35);
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.5s all;
+}
+.active_pop_up{
+    opacity: 1;
+    pointer-events: all;
+    transition: 0.5s all;
+
+}
+.active2pop_up{
+    transform: translate(-50%, -50%) scale(1);  
+    transition: 0.5s all;
+}
